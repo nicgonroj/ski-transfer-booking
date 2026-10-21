@@ -1,0 +1,179 @@
+{
+  "common": {
+    "reservar": "Book",
+    "cotizar": "Get quote",
+    "siguiente": "Next",
+    "anterior": "Back",
+    "volver": "Back",
+    "cargando": "Loading…",
+    "obligatorio": "Required",
+    "opcional": "Optional",
+    "desde": "From",
+    "por_persona": "per person",
+    "por_van": "per van",
+    "total": "Total",
+    "prepago": "Prepayment",
+    "pendiente": "Balance on arrival",
+    "ver_mas": "See more",
+    "cerrar": "Close",
+    "datoPendiente": "Pending confirmation",
+    "consultarPrecio": "Quote on WhatsApp",
+    "consultarDisponibilidad": "Check availability"
+  },
+  "nav": {
+    "inicio": "Home",
+    "servicios": "Services",
+    "reservar": "Book",
+    "contacto": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "tagline": "Head to the snow without driving",
+    "titulo": "Santiago ↔ ski center transfers",
+    "subtitulo": "Mountain-experienced driver, snow chains always, hotel pickup and online payment. We go up in the morning, pick you up in the afternoon.",
+    "ctaPrimario": "Book now",
+    "ctaSecundario": "Chat on WhatsApp"
+  },
+  "trust": {
+    "titulo": "Why travel with us",
+    "item1": "Drivers experienced on the G-21 road",
+    "item2": "Gear (chains, insurance) always included",
+    "item3": "Pickup at hotels and private addresses",
+    "item4": "Service in English, Spanish and Portuguese",
+    "item5": "Easy booking via WhatsApp",
+    "item6": "Own fleet + partner vans for large groups"
+  },
+  "servicios": {
+    "titulo": "Pick your service",
+    "subtitulo": "Three ways to reach the snow. Same promise: arrive well and on time.",
+    "verDetalle": "See details",
+    "incluye": "What's included",
+    "noIncluye": "What's not included",
+    "horarios": "Schedules",
+    "destinos": "Available destinations",
+    "duracion": "Approx. duration"
+  },
+  "faq": {
+    "titulo": "Frequently asked questions",
+    "q1": "What should I bring?",
+    "a1": "Warm clothing (layers), sunblock, sunglasses or ski goggles, gloves. If you rent gear with us, we'll stop at the partner shop.",
+    "q2": "What's the road like?",
+    "a2": "The G-21 road has time restrictions: uphill only in the morning, downhill in the afternoon. Our van has chains and current insurance.",
+    "q3": "What if the weather is bad?",
+    "a3": "If the road is closed by Carabineros or Vialidad, we refund 100% or reschedule at no cost.",
+    "q4": "Can I pay it all later?",
+    "a4": "We confirm the booking with 50% online. The balance is paid to the driver on the day, in cash or by transfer."
+  },
+  "wizard": {
+    "paso": "Step",
+    "de": "of",
+    "step1": {
+      "titulo": "Service, destination and date",
+      "elegiServicio": "Choose service",
+      "elegiDestino": "Choose destination",
+      "elegiFecha": "Choose date"
+    },
+    "step2": {
+      "titulo": "Passengers and pickup",
+      "adultos": "Adults",
+      "ninos": "Children (3-11)",
+      "pickup": "Pickup point",
+      "direccion": "Exact address (street, number, district)"
+    },
+    "step3": {
+      "titulo": "Your info",
+      "nombre": "Full name",
+      "whatsapp": "WhatsApp (with country code)",
+      "email": "Email",
+      "nacionalidad": "Nationality (optional)",
+      "extras": "Extras (optional)"
+    },
+    "step4": {
+      "titulo": "Summary and payment",
+      "pagar": "Pay booking (50%)",
+      "whatsapp": "Confirm via WhatsApp",
+      "aclaracion": "You'll get a booking code as soon as we're done."
+    },
+    "errores": {
+      "campo_requerido": "This field is required",
+      "whatsapp_invalido": "Expected format: +<country code><number>, e.g. +15555550100",
+      "email_invalido": "Invalid email",
+      "pax_min": "At least 1 adult"
+    }
+  },
+  "confirmacion": {
+    "titulo": "Booking received",
+    "subtitulo": "You'll get confirmation via WhatsApp shortly.",
+    "codigo": "Your booking code",
+    "volverInicio": "Back to home"
+  },
+  "calendario": {
+    "tarifa": "Fare",
+    "baja": "Low season",
+    "peak": "Peak season",
+    "super_peak": "Super peak",
+    "sinSalida": "No departure",
+    "ocupada": "Sold out",
+    "meses": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "diasCorto": [
+      "M",
+      "T",
+      "W",
+      "T",
+      "F",
+      "S",
+      "S"
+    ]
+  },
+  "footer": {
+    "derechos": "All rights reserved",
+    "razonSocial": "Legal name",
+    "rut": "Tax ID"
+  },
+  "admin": {
+    "login": {
+      "titulo": "Admin access",
+      "email": "Email",
+      "password": "Password",
+      "entrar": "Sign in",
+      "error": "Invalid credentials"
+    },
+    "reservas": {
+      "titulo": "Bookings",
+      "fecha": "Date",
+      "codigo": "Code",
+      "servicio": "Service",
+      "destino": "Destination",
+      "pax": "Pax",
+      "total": "Total",
+      "estado": "Status",
+      "canal": "Channel",
+      "contacto": "Contact",
+      "acciones": "Actions",
+      "abrirWhatsApp": "WhatsApp"
+    },
+    "salidas": {
+      "titulo": "Departures calendar",
+      "ocupacion": "Occupancy",
+      "agregar": "Add departure",
+      "cerrar": "Close date"
+    },
+    "config": {
+      "titulo": "Configuration",
+      "guardar": "Save changes"
+    }
+  }
+}

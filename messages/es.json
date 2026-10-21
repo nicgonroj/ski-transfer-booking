@@ -1,0 +1,179 @@
+{
+  "common": {
+    "reservar": "Reservar",
+    "cotizar": "Cotizar",
+    "siguiente": "Siguiente",
+    "anterior": "Anterior",
+    "volver": "Volver",
+    "cargando": "Cargando…",
+    "obligatorio": "Obligatorio",
+    "opcional": "Opcional",
+    "desde": "Desde",
+    "por_persona": "por persona",
+    "por_van": "por van",
+    "total": "Total",
+    "prepago": "Prepago",
+    "pendiente": "Saldo en destino",
+    "ver_mas": "Ver más",
+    "cerrar": "Cerrar",
+    "datoPendiente": "Dato pendiente de confirmación",
+    "consultarPrecio": "Cotiza por WhatsApp",
+    "consultarDisponibilidad": "Consultar disponibilidad"
+  },
+  "nav": {
+    "inicio": "Inicio",
+    "servicios": "Servicios",
+    "reservar": "Reservar",
+    "contacto": "Contacto",
+    "admin": "Admin"
+  },
+  "hero": {
+    "tagline": "A la montaña sin manejar",
+    "titulo": "Transfers Santiago ↔ centros de ski",
+    "subtitulo": "Chofer experto en montaña, cadenas siempre, pickup en hotel y pago online. Subimos en la mañana, te buscamos en la tarde.",
+    "ctaPrimario": "Reservar ahora",
+    "ctaSecundario": "Hablar por WhatsApp"
+  },
+  "trust": {
+    "titulo": "Por qué viajar con nosotros",
+    "item1": "Choferes expertos en el camino G-21",
+    "item2": "Equipamiento (cadenas, seguro) siempre incluido",
+    "item3": "Pickup en hoteles y direcciones particulares",
+    "item4": "Atención en español, portugués e inglés",
+    "item5": "Reserva fácil por WhatsApp",
+    "item6": "Capacidad propia + red de vans asociadas para grupos grandes"
+  },
+  "servicios": {
+    "titulo": "Elegí tu servicio",
+    "subtitulo": "Tres formas de subir a la nieve. Misma promesa: llegar bien y a tiempo.",
+    "verDetalle": "Ver detalle",
+    "incluye": "Qué incluye",
+    "noIncluye": "Qué no incluye",
+    "horarios": "Horarios",
+    "destinos": "Destinos disponibles",
+    "duracion": "Duración aprox."
+  },
+  "faq": {
+    "titulo": "Preguntas frecuentes",
+    "q1": "¿Qué tengo que llevar?",
+    "a1": "Ropa abrigada (capas), bloqueador, anteojos de sol o de ski, guantes. Si arriendas equipo con nosotros, paramos en la tienda asociada.",
+    "q2": "¿Cómo es el camino?",
+    "a2": "El camino G-21 tiene restricción horaria: solo se sube en la mañana y se baja en la tarde. Nuestra van tiene cadenas y seguro al día.",
+    "q3": "¿Y si hay mal tiempo?",
+    "a3": "Si el camino se cierra por decisión de Carabineros o Vialidad, te devolvemos el 100% o reagendamos sin costo.",
+    "q4": "¿Puedo pagar todo después?",
+    "a4": "Confirmamos la reserva con el 50% online. El saldo se paga al chofer el día del viaje, en efectivo o por transferencia."
+  },
+  "wizard": {
+    "paso": "Paso",
+    "de": "de",
+    "step1": {
+      "titulo": "Servicio, destino y fecha",
+      "elegiServicio": "Elegí servicio",
+      "elegiDestino": "Elegí destino",
+      "elegiFecha": "Elegí fecha"
+    },
+    "step2": {
+      "titulo": "Pasajeros y pickup",
+      "adultos": "Adultos",
+      "ninos": "Niños (3-11)",
+      "pickup": "Punto de pickup",
+      "direccion": "Dirección exacta (calle, número, comuna)"
+    },
+    "step3": {
+      "titulo": "Tus datos",
+      "nombre": "Nombre completo",
+      "whatsapp": "WhatsApp (con código país)",
+      "email": "Email",
+      "nacionalidad": "Nacionalidad (opcional)",
+      "extras": "Extras (opcional)"
+    },
+    "step4": {
+      "titulo": "Resumen y pago",
+      "pagar": "Pagar reserva (50%)",
+      "whatsapp": "Confirmar por WhatsApp",
+      "aclaracion": "Te enviamos un código de reserva apenas terminemos."
+    },
+    "errores": {
+      "campo_requerido": "Este campo es obligatorio",
+      "whatsapp_invalido": "Formato esperado: +<código país><número>, ej. +15555550100",
+      "email_invalido": "Email no válido",
+      "pax_min": "Al menos 1 adulto"
+    }
+  },
+  "confirmacion": {
+    "titulo": "Reserva recibida",
+    "subtitulo": "Te llegará confirmación por WhatsApp en breve.",
+    "codigo": "Código de tu reserva",
+    "volverInicio": "Volver al inicio"
+  },
+  "calendario": {
+    "tarifa": "Tarifa",
+    "baja": "Tarifa baja",
+    "peak": "Tarifa peak",
+    "super_peak": "Tarifa súper peak",
+    "sinSalida": "Sin salida",
+    "ocupada": "Ocupada",
+    "meses": [
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre",
+      "Diciembre"
+    ],
+    "diasCorto": [
+      "L",
+      "M",
+      "M",
+      "J",
+      "V",
+      "S",
+      "D"
+    ]
+  },
+  "footer": {
+    "derechos": "Todos los derechos reservados",
+    "razonSocial": "Razón social",
+    "rut": "RUT"
+  },
+  "admin": {
+    "login": {
+      "titulo": "Acceso administrador",
+      "email": "Email",
+      "password": "Contraseña",
+      "entrar": "Entrar",
+      "error": "Credenciales inválidas"
+    },
+    "reservas": {
+      "titulo": "Reservas",
+      "fecha": "Fecha",
+      "codigo": "Código",
+      "servicio": "Servicio",
+      "destino": "Destino",
+      "pax": "Pax",
+      "total": "Total",
+      "estado": "Estado",
+      "canal": "Canal",
+      "contacto": "Contacto",
+      "acciones": "Acciones",
+      "abrirWhatsApp": "WhatsApp"
+    },
+    "salidas": {
+      "titulo": "Calendario de salidas",
+      "ocupacion": "Ocupación",
+      "agregar": "Agregar salida",
+      "cerrar": "Cerrar fecha"
+    },
+    "config": {
+      "titulo": "Configuración",
+      "guardar": "Guardar cambios"
+    }
+  }
+}

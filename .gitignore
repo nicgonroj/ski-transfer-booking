@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# next.js
+.next/
+out/
+build/
+next-env.d.ts
+*.tsbuildinfo
+
+# env (solo se versiona la plantilla)
+.env*
+!.env.example
+
+# vercel
+.vercel/
+
+# supabase CLI
+supabase/.temp/
+supabase/.branches/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# misc
+.DS_Store
+Thumbs.db
+*.pem
+.vscode/
+.idea/
